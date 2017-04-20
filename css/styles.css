@@ -1,0 +1,15 @@
+/* Styling */
+h1 {
+  color: lightblue;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 2.5em;}
+
+/* Score: 0,0,1,1 */
+span.word7{
+  color: orange;}
+
+/* Score: 0,0,1,0 */
+.word7 {
+  color: purple;
+}
